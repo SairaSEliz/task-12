@@ -63,11 +63,12 @@ The form is styled with basic CSS rules:
 - The form is aligned at the center of the page.
 - Fields have a clean, modern design with padding and borders.
 - The submit button has a green color scheme with a hover effect.
+- The CSS file for this project are moved to seperate file(`style.css`).
 
 ## JavaScript Validation
 
 Password matching is checked using JavaScript:
-- If the passwords do not match, the form submission is prevented, and an alert is displayed.
+- If the passwords do not match and phone number not correct the form submission is prevented, and an alert is displayed.
 - The JavaScript for this functionality has been moved into a separate file (`script.js`).
 
 ## How to Use the Project
