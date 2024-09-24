@@ -68,14 +68,8 @@ The form is styled with basic CSS rules:
 ## JavaScript Validation
 
 Password matching is checked using JavaScript:
-- If the passwords do not match and phone number not correct the form submission is prevented, and an alert is displayed.
+- If the passwords are not the same and the phone number is incorrect, the form submission is rejected and an alert is issued.
 - The JavaScript for this functionality has been moved into a separate file (`script.js`).
 
-## How to Use the Project
 
-- Download or clone this repository.
-- Open the project in VSCodium.
-- Use Live Server to preview the `index.html` file and test the form submission.
-
-## Repository Structure
 
